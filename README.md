@@ -2,7 +2,11 @@
 
 "Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list.
 
+## Desktop Version
+
 ![screenshot desktop](./screenshot-desktop.png)
+
+## Mobile Version
 
 ![screenshot mobile](./screenshot-mobile.png)
 
@@ -14,18 +18,15 @@
 - Books can be added using a form by clicking the "Add new" option.
 - The "Contact" option display the contact information.
 
-
 ## Built With
 
 - HTML / CSS / Javascript
 
 ## Live Demo
 
-[Awesome books](https://gabyse1.github.io/awesome-books-ES6/)
-
+[Awesome books](https://ramoun.me/Awesome-Books/)
 
 ## Getting Started
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -42,7 +43,6 @@ To get a local copy up and running follow these simple example steps.
 
 - Execute the index.html file to display the project.
 
-
 ## Authors
 
 👤 **Gabriela Sánchez Espirilla**
@@ -58,7 +58,6 @@ To get a local copy up and running follow these simple example steps.
 👤 **Zeeshan Haider**
 
 - GitHub: [@zhadier](https://github.com/zhadier)
-
 
 ## 🤝 Contributing
 
