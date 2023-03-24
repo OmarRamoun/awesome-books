@@ -20,11 +20,11 @@
 
 ## Built With
 
-- HTML / CSS / Javascript
+- HTML5 / CSS3 / Javascript - ES6
 
 ## Live Demo
 
-[Awesome books](https://ramoun.me/Awesome-Books/)
+[Awesome books](https://awesomebooks.omarramoun.com/)
 
 ## Getting Started
 
@@ -53,7 +53,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Ramoun Omar**
 
-- GitHub: [@MrRamoun](https://github.com/MrRamoun)
+- GitHub: [@OmarRAmoun](https://github.com/OmarRamoun)
+- Twitter: [@OmarRamoun][https://twitter.com/OmarRamoun)
+- LinkedIn: [@OmarRamoun][https://linkedin.com/in/omarramoun]
 
 👤 **Zeeshan Haider**
 
